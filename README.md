@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Контакты
+- Email: aleksander.zimin@gmail.com
+- Telegram: [@ziminator](https://t.me/ziminator)
+
 <!--
 **ziminator/ziminator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
