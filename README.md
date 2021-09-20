@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...
 
 ## Контакты
 - Email: aleksander.zimin@gmail.com
