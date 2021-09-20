@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 
+## Стек технологий
+Ruby / Ruby on Rails / HTML / CSS / SQL / Postgresql / GIT / TDD/BDD
+
 ## Контакты
 - Email: aleksander.zimin@gmail.com
 - Telegram: [@ziminator](https://t.me/ziminator)
